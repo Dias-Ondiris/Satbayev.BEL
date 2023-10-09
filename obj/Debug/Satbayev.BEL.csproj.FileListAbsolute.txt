@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\Satbayev.BEL\obj\Debug\Satbayev.BEL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Satbayev.BEL\obj\Debug\Satbayev.BEL.csproj.CoreCompileInputs.cache

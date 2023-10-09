@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Satbayev.BEL\bin\Debug\Satbayev.BEL.dll
+C:\Users\User\source\repos\Satbayev.BEL\bin\Debug\Satbayev.BEL.pdb
+C:\Users\User\source\repos\Satbayev.BEL\bin\Debug\Satbayev.DAL.dll
+C:\Users\User\source\repos\Satbayev.BEL\bin\Debug\LiteDB.dll
+C:\Users\User\source\repos\Satbayev.BEL\bin\Debug\Satbayev.DAL.pdb
+C:\Users\User\source\repos\Satbayev.BEL\bin\Debug\LiteDB.xml
+C:\Users\User\source\repos\Satbayev.BEL\obj\Debug\Satbayev.BLL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Satbayev.BEL\obj\Debug\Satbayev.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Satbayev.BEL\obj\Debug\Satbayev.BLL.csproj.CopyComplete
+C:\Users\User\source\repos\Satbayev.BEL\obj\Debug\Satbayev.BEL.dll
+C:\Users\User\source\repos\Satbayev.BEL\obj\Debug\Satbayev.BEL.pdb
